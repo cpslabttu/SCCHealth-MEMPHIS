@@ -2,7 +2,7 @@
   "id": "sample.helloworld.20130703.1",
   "files": [{
     "id": "sample.helloworld.20130703.1",
-    
+    "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
     "url": " https://raw.github.com/SCChealth/EAGER/blob/master/site/helloworld/sample.helloworld.20130703.1.apk"
     
   }],
