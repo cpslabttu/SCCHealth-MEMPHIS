@@ -10,5 +10,5 @@
 		"name": "com.example.android.testfragment.HelloFragment",
 		"code": "test.helloworld"
 	}],
-	"version": "257c0a9"
+	"version": "69964d5"
 }
