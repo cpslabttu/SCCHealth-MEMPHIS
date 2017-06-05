@@ -1,17 +1,14 @@
 {
-  "id": "test.helloworld.apk",
-  "files": [{
-    "id": "test.helloworld.apk",
-    "url": " https://raw.github.com/SCChealth/EAGER/blob/master/site/helloworld/test.helloworld.apk"
-    
-  }],
-  "fragments": [
-    {
-      "host": "helloworld",
-      "name": "com.example.android.testfragment.HelloFragment",
-      "code": "test.helloworld"
-    },
-   "version": "257c0a9"
-    
-  ]
+	"id": "test.helloworld.apk",
+	"files": [{
+		"id": "test.helloworld.apk",
+		"url": " https://raw.github.com/SCChealth/EAGER/blob/master/site/helloworld/test.helloworld.apk"
+
+	}],
+	"fragments": [{
+		"host": "helloworld",
+		"name": "com.example.android.testfragment.HelloFragment",
+		"code": "test.helloworld"
+	}],
+	"version": "257c0a9"
 }
