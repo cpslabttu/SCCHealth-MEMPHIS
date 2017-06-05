@@ -8,12 +8,12 @@
 	"fragments": [{
 		"host": "helloworld",
 		"name": "com.example.android.testfragment.HelloFragment",
-		"code": "test.helloworld"
+		"code": "juber.helloworld"
 	},
     {
      "host": "helloworld",
 		"name": "com.example.android.testfragment.HelloFragment",
-		"code": "test.helloworld"
+		"code": "juber.helloworld"
     }
 	],
 	"version": "cb50e6a"
