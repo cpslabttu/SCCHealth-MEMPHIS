@@ -1,16 +1,14 @@
 {
-  "id": "sample.helloworld.20130703.1",
+  "id": "test.helloworld",
   "files": [{
-    "id": "sample.helloworld.20130703.1",
-    "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
-    "url": " https://raw.github.com/SCChealth/EAGER/blob/master/site/helloworld/sample.helloworld.20130703.1.apk"
-    
+    "id": "test.helloworld",
+    "url": "https://raw.github.com/SCChealth/EAGER/blob/master/site/helloworld/test.helloworld.apk"
   }],
   "fragments": [
     {
       "host": "helloworld",
-      "name": "sample.helloworld.HelloFragment",
-      "code": "sample.helloworld.20130703.1"
+      "name": "com.example.android.testfragment.HelloFragment",
+      "code": "test.helloworld"
     },
     {
       "host": "pickname",
