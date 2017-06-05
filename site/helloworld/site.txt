@@ -9,6 +9,12 @@
 		"host": "helloworld",
 		"name": "com.example.android.testfragment.HelloFragment",
 		"code": "test.helloworld"
-	}],
+	},
+    {
+     "host": "helloworld",
+		"name": "com.example.android.testfragment.HelloFragment",
+		"code": "test.helloworld"
+    }
+	],
 	"version": "69964d5"
 }
