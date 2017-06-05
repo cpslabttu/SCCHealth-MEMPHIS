@@ -16,5 +16,5 @@
 		"code": "juber.helloworld"
     }
 	],
-	"version": "cb50e6a"
+	"version": "7240cc1"
 }
