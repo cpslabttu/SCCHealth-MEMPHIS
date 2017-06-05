@@ -1,8 +1,8 @@
 {
-	"id": "test.helloworld.apk",
+	"id": "juber.helloworld.apk",
 	"files": [{
-		"id": "test.helloworld.apk",
-		"url": " https://raw.github.com/SCChealth/EAGER/blob/master/site/helloworld/test.helloworld.apk"
+		"id": "juber.helloworld.apk",
+		"url": " https://raw.github.com/SCChealth/EAGER/blob/master/site/helloworld/juber.helloworld.apk"
 
 	}],
 	"fragments": [{
